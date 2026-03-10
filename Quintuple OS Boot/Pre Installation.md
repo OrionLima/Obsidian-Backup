@@ -171,7 +171,7 @@
 	mkfs.btrfs -f -L ARCH /dev/nvme0n1p3  
 	mkfs.btrfs -f -L DEBIAN /dev/nvme0n1p4  
 	mkfs.btrfs -f -L GENTOO /dev/nvme0n1p5  
-	mkfs.btrfs -f -L LFS /dev/nvme0n1p5 
+	mkfs.btrfs -f -L LFS /dev/nvme0n1p6
 	mkfs.btrfs -f -L SHARE /dev/nvme0n1p7  
 
 ### File System Labels

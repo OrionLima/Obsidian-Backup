@@ -7,7 +7,7 @@ In a Dual Boot, you know exactly what you need. Usually the 2 dual booted OSes a
 
 I personally chose these following OSes:
 
-[Windows Installation](Windows%20Installation.md) -- Windows is by far my most reluctant OS to use. However, it is the one OS that has the most support by far, even compared to second place, MacOS. Gaming on Windows is also the best and is still incomparable to Linux (Even after Steam)
+[Windows](Windows%20Installation.md) -- Windows is by far my most reluctant OS to use. However, it is the one OS that has the most support by far, even compared to second place, MacOS. Gaming on Windows is also the best and is still incomparable to Linux (Even after Steam)
 
 [Arch Linux](Arch.md) -- Arch Linux is my daily driver OS. This is what I'll use to rice Linux, do some light gaming. Work, Use LibreOffice, etc. I chose it because it's the most customizable Linux machine without it being a nuisance.
 

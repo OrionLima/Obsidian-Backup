@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
+                "file": "Quintuple OS Boot/Quintuple OS Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Installation"
+              "title": "Quintuple OS Boot"
             }
           },
           {
@@ -196,17 +196,17 @@
   },
   "active": "5b016966be7d0999",
   "lastOpenFiles": [
-    "Quintuple OS Boot/Pre Installation.md",
-    "Quintuple OS Boot/OSes/Debian/Debian.md",
-    "Quintuple OS Boot/Quintuple OS Boot.md",
     "Quintuple OS Boot/OSes/Windows/Windows Post Installation.md",
+    "Quintuple OS Boot/Pre Installation.md",
     "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
+    "Quintuple OS Boot/OSes/LFS/Linux From Scratch (LFS).md",
+    "Quintuple OS Boot/Quintuple OS Boot.md",
+    "Quintuple OS Boot/OSes/Arch/Arch.md",
+    "Quintuple OS Boot/OSes/Debian/Debian.md",
     "README.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Quintuple OS Boot/OSes/LFS/Linux From Scratch (LFS).md",
     "Quintuple OS Boot/OSes/Gentoo/Gentoo.md",
-    "Quintuple OS Boot/OSes/Arch/Arch.md",
     "THE BIG BOY.md",
     "Quintuple OS Boot",
     "Preinstallation.md",

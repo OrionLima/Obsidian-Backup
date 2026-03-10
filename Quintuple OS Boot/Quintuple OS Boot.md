@@ -11,7 +11,7 @@ I personally chose these following OSes:
 
 [Arch Linux](Arch.md) -- Arch Linux is my daily driver OS. This is what I'll use to rice Linux, do some light gaming. Work, Use LibreOffice, etc. I chose it because it's the most customizable Linux machine without it being a nuisance.
 
-[Debain](Debian.md) -- Debian is an incredibly stable OS. In case something goes wrong with an Arch Update, Debian has my back. Along with that it's also an amazing OS to have alongside Arch and can help accomplish some amazing things.
+[Debian](Debian.md) -- Debian is an incredibly stable OS. In case something goes wrong with an Arch Update, Debian has my back. Along with that it's also an amazing OS to have alongside Arch and can help accomplish some amazing things.
 
 [Gentoo](Gentoo.md) -- Gentoo is the most customizable OS that isn't Linux From Scratch. As many issues as Gentoo might have, it is still an amazing OS to run. It isn't my Daily Driver but it is going to have amazing performance. Also this is largely going to be an experimental OS so I can learn how to do things like compiling kernels
 
@@ -39,7 +39,7 @@ My USB Stick - 256 GB
 
 ### External SSD:
 
-1 TB = 0.909495 GB
+1 TB = 0.909495 TiB
 
 	WINBOOT - 1 GiB - Fat32 - EFI
 	WINRESERVE - 16 MiB - Windows Reserved

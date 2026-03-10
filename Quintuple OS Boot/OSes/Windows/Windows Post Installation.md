@@ -340,14 +340,12 @@
 
 ### Install Packages
 
-
-
-$pkgs = .\Downloads\winget_pkg_ids.txt | Where-Object { $\_.Trim -ne "" }
-
-foreach ($pkg in $pkgs) {
-Write-Host "Installing $pkg"
-winget install --id $pkg --accept-package-agreements --accept-source-agreements
-} 
+	$pkgs = .\Downloads\winget_pkg_ids.txt | Where-Object { $_.Trim -ne "" }
+	
+	foreach ($pkg in $pkgs) {
+	Write-Host "Installing $pkg"
+	winget install $pkg --accept-package-agreements --accept-source-agreements
+	} 
 
 
 # Regedit Tweaks

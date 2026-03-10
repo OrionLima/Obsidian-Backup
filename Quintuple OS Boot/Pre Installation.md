@@ -170,7 +170,8 @@
 	mkswap -L SWAP /dev/nvme0n1p2  
 	mkfs.btrfs -f -L ARCH /dev/nvme0n1p3  
 	mkfs.btrfs -f -L DEBIAN /dev/nvme0n1p4  
-	mkfs.btrfs -f -L GENTOO /dev/nvme0n1p5   
+	mkfs.btrfs -f -L GENTOO /dev/nvme0n1p5  
+	mkfs.btrfs -f -L LFS /dev/nvme0n1p5 
 	mkfs.btrfs -f -L SHARE /dev/nvme0n1p7  
 
 ### File System Labels
@@ -186,7 +187,7 @@
 
 ##### Ventoy on MicroSD (/dev/sdc):
 
-	parted -s /dev/sdc name 1 VENTOY  
+	parted -s /dev/sdc name 1 RECOVERY  
 	parted -s /dev/sdc name 2 VTOYEFI  
 	parted -s /dev/sdc name 3 PRIVATE  
 	parted -s /dev/sdc name 4 BACKUP  
@@ -213,7 +214,7 @@
 
 ##### Ventoy on MicroSD (/dev/sdc):
 
-	exfatlabel /dev/sdc1 VENTOY
+	exfatlabel /dev/sdc1 REOVERY
 	fatlabel /dev/sdc2 VTOYEFI
 	
 	cryptsetup open /dev/sdc3 private  

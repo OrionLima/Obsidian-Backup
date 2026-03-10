@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quintuple OS Boot/Quintuple OS Boot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quintuple OS Boot"
-            }
-          },
-          {
-            "id": "c96d78bcefd042d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Quintuple OS Boot/Pre Installation.md",
                 "mode": "source",
                 "source": false
@@ -34,33 +20,8 @@
               "icon": "lucide-file",
               "title": "Pre Installation"
             }
-          },
-          {
-            "id": "be4ababda6c6222f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows Installation"
-            }
-          },
-          {
-            "id": "d0ca0f5801383953",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,14 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "32628440c73a5e4b",
+  "active": "8e52821d45c96d2c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.base",
+    "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
     "Quintuple OS Boot/Pre Installation.md",
     "Quintuple OS Boot/Quintuple OS Boot.md",
     "Quintuple OS Boot/OSes/Windows/Windows Post Installation.md",
-    "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
+    "README.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "Quintuple OS Boot/OSes/LFS/Linux From Scratch (LFS).md",
     "Quintuple OS Boot/OSes/Gentoo/Gentoo.md",
     "Quintuple OS Boot/OSes/Debian/Debian.md",

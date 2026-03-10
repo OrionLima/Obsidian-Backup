@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "9e4339323d2d430c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff8e6ed7a62e54c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e52821d45c96d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintuple OS Boot/Quintuple OS Boot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quintuple OS Boot"
+            }
+          },
+          {
+            "id": "c96d78bcefd042d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintuple OS Boot/Pre Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre Installation"
+            }
+          },
+          {
+            "id": "be4ababda6c6222f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Installation"
+            }
+          },
+          {
+            "id": "d0ca0f5801383953",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4af6b59f05008b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2079b3f93f1888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32628440c73a5e4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c8d77f61613e05f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "246a348df4313965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3385f6cc75e22937",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc9fa3c6861c2d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1de170387095a26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "15718c0bc0bfaa69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f430e96039dc4587",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0abdeae9ed714a5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "27835ad32b411569",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "32628440c73a5e4b",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "Quintuple OS Boot/Pre Installation.md",
+    "Quintuple OS Boot/Quintuple OS Boot.md",
+    "Quintuple OS Boot/OSes/Windows/Windows Post Installation.md",
+    "Quintuple OS Boot/OSes/Windows/Windows Installation.md",
+    "Quintuple OS Boot/OSes/LFS/Linux From Scratch (LFS).md",
+    "Quintuple OS Boot/OSes/Gentoo/Gentoo.md",
+    "Quintuple OS Boot/OSes/Debian/Debian.md",
+    "Quintuple OS Boot/OSes/Arch/Arch.md",
+    "THE BIG BOY.md",
+    "Quintuple OS Boot",
+    "Preinstallation.md",
+    "Quintuple OS Boot/OSes/LFS",
+    "Quintuple OS Boot/OSes/Gentoo",
+    "Quintuple OS Boot/OSes/Debian",
+    "Quintuple OS Boot/OSes/Windows",
+    "Quintuple OS Boot/OSes/Arch",
+    "Quintuple OS Boot/OSes",
+    "OSes/Linux From Scratch (LFS).md",
+    "OSes/Debian.md",
+    "OSes/Linux.md",
+    "OSes/Arch.md",
+    "OSes/Gentoo.md",
+    "OS/().md",
+    "Welcome.md"
+  ]
+}

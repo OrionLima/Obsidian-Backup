@@ -58,3 +58,5 @@
 	Disable all privacy options
 	Wait for updates
 
+[Next -->](<Quintuple OS Boot/OSes/Windows/Windows Post Installation>)
+
